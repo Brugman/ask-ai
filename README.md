@@ -10,7 +10,7 @@
 cd wp-content/plugins/ask-ai
 composer require wordpress/wp-ai-client
 ```
-1. Add an API key in `Settings > AI Credentials`.
+3. Add an API key in `Settings > AI Credentials`.
 
 ## Usage
 
