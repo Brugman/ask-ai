@@ -5,12 +5,13 @@
 ## Installation
 
 1. Add the plugin.
-1. Download the WP AI Client.
+2. Download the WP AI Client:
 ```sh
 cd wp-content/plugins/ask-ai
 composer require wordpress/wp-ai-client
 ```
-3. Add an API key in `Settings > AI Credentials`.
+3. Activate the plugin.
+4. Add an API key in `Settings > AI Credentials`.
 
 ## Usage
 
